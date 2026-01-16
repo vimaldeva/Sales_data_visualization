@@ -4,8 +4,6 @@
 
 This project presents a comprehensive Power BI dashboard designed for data analysis, leveraging multiple data sources to provide actionable insights for business stakeholders. The dashboard integrates various datasets, including Sales, Customers, Products, and Product Categories, and offers multiple analytical perspectives through interactive visualizations.
 
-![Dashboard Overview](images/dashboard_overview.png)
-
 ## Data Sources
 
 - **Sales**: Transactional sales data
@@ -44,7 +42,6 @@ A variety of Power BI visuals are used to present the data effectively:
 - **Time Series Graphs**: To analyze trends over time.
 - **Slicers & Filters**: For interactive data exploration and custom views.
 
-![Sample Visuals](images/sample_visuals.png)
 
 ## How to Use
 
